@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=D\:\\Code\\eclipse-workspace\\gmall-interface\\.git;D\:\\Code\\eclipse-workspace\\user-service-provider\\.git;D\:\\Code\\eclipse-workspace\\order-service-consumer\\.git;
+GitRepositoriesView.GitDirectories.relative=gmall-interface\\.git;user-service-provider\\.git;order-service-consumer\\.git;
+core_defaultRepositoryDir=D\:\\Code\\eclipse-git-clone
+core_ssh_default_agent=\\\\.\\pageant
+eclipse.preferences.version=1

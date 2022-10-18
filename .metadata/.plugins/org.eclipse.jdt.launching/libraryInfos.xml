@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\zeroyearn\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257\jre" version="17.0.4.1"/>
+    <libraryInfo home="D:\Program\java\jdk1.8.0_341" version="1.8.0_341">
+        <bootpath>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\resources.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\rt.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\jsse.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\jce.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\charsets.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\jfr.jar"/>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\ext"/>
+            <entry path="C:\windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\Program\java\jdk1.8.0_341\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\zeroyearn\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257" version="17.0.4.1"/>
+</libraryInfos>
